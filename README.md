@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **C And C++**
 
-- 👨‍💻 All of my projects are available at [mdtanvirahamedshant.blogspot.com](mdtanvirahamedshant.blogspot.com)
+- 👨‍💻 All of my projects are available at [mdtanvirahamedshant.blogspot.com](https://mdtanvirahamedshanto.hashnode.dev/)
 
 - 📝 I regularly write articles on [mdtanvirahamedshant.blogspot.com](mdtanvirahamedshant.blogspot.com)
 
