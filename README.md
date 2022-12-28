@@ -13,9 +13,9 @@
 
 - 🌱 I’m currently learning **C And C++**
 
-- 👨‍💻 All of my projects are available at [mdtanvirahamedshant.blogspot.com](https://mdtanvirahamedshanto.hashnode.dev)
+- 👨‍💻 All of my projects are available at [mdtanvirahamedshanto.hashnode.dev](https://mdtanvirahamedshanto.hashnode.dev/)
 
-- 📝 I regularly write articles on [mdtanvirahamedshant.blogspot.com](mdtanvirahamedshant.blogspot.com)
+- 📝 I regularly write articles on [mdtanvirahamedshanto.blogspot.com](mdtanvirahamedshanto.blogspot.com)
 
 - 💬 Ask me about **Any Problems**
 
