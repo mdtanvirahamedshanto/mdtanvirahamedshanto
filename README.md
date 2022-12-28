@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [mdtanvirahamedshanto.hashnode.dev](https://mdtanvirahamedshanto.hashnode.dev/)
 
-- 📝 I regularly write articles on [mdtanvirahamedshanto.blogspot.com](mdtanvirahamedshanto.blogspot.com)
+- 📝 I regularly write articles on [mdtanvirahamedshanto.blogspot.com](https://mdtanvirahamedshanto.blogspot.com)
 
 - 💬 Ask me about **Any Problems**
 
