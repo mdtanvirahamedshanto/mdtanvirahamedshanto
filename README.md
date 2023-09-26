@@ -2,7 +2,9 @@
 <h1 align="center">Hi 👋, I'm Md Tanvir Ahamed Shanto</h1>
 <h3 align="center">A Computer Engineer From Bangladesh</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mdtanvirahamedshanto&label=Profile%20views&color=0e75b6&style=flat" alt="mdtanvirahamedshanto" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=mdtanvirahamedshanto&label=Profile%20views&color=0e75b6&style=flat" alt="mdtanvirahamedshanto" />
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/mdtanvirahamedshanto">
+<img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/mdtanvirahamedshanto"></p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdtanvirahamedshanto" alt="mdtanvirahamedshanto" /></a> </p>
 <img align="right" alt="Coding" width="400" src="https://cdn.sanity.io/images/ordgikwe/production/a830c5182852e35bcd0dc07b90122f07ecd15f48-700x525.gif">
