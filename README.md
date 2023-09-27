@@ -13,7 +13,7 @@
 - 🌐 Website: **https://www.facebook.com/mdtanvirahamedshanto.ofc**
 - ⚡ Fun fact: **Actually, nothing. Just booring**
 ## Stack:
-<img src="/assets/stack-js.gif"/>
+<img src="/assets/js.gif"/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/mdtanvirahamedshanto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="mdtanvirahamedshanto" height="30" width="40" /></a>
