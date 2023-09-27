@@ -7,10 +7,11 @@
 - 📧 Mail: **mdtanvirahamedshanto@gmail.com**
 - 🌐 Website: **https://www.facebook.com/mdtanvirahamedshanto.ofc**
 - ⚡ Fun fact: **Actually, nothing. Just booring**
-
-
-<br />
-
+<div align="center">
+   <p align="center"> <img src="https://komarev.com/ghpvc/?username=mdtanvirahamedshanto&label=Profile%20views&color=0e75b6&style=flat" alt="mdtanvirahamedshanto" />
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/mdtanvirahamedshanto">
+<img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/mdtanvirahamedshanto"></p>
+</div>
 ## Stack:
 
 <img src="/assets/stack-js.gif"/>
@@ -42,14 +43,6 @@
 <br />
 
 <hr />
-
-<br />
-
-<div align="center">
-   <p align="center"> <img src="https://komarev.com/ghpvc/?username=mdtanvirahamedshanto&label=Profile%20views&color=0e75b6&style=flat" alt="mdtanvirahamedshanto" />
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/mdtanvirahamedshanto">
-<img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/mdtanvirahamedshanto"></p>
-</div>
 
 <br />
 
