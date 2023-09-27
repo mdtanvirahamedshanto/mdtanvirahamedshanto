@@ -3,20 +3,17 @@
     <img width="100%" src="/assets/header-banner.svg"/>
   </a>
 </div>
-
-- 📧 Mail: **mdtanvirahamedshanto@gmail.com**
-- 🌐 Website: **https://www.facebook.com/mdtanvirahamedshanto.ofc**
-- ⚡ Fun fact: **Actually, nothing. Just booring**
 <div align="center">
    <p align="center"> <img src="https://komarev.com/ghpvc/?username=mdtanvirahamedshanto&label=Profile%20views&color=0e75b6&style=flat" alt="mdtanvirahamedshanto" />
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/mdtanvirahamedshanto">
 <img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/mdtanvirahamedshanto"></p>
 </div>
+
+- 📧 Mail: **mdtanvirahamedshanto@gmail.com**
+- 🌐 Website: **https://www.facebook.com/mdtanvirahamedshanto.ofc**
+- ⚡ Fun fact: **Actually, nothing. Just booring**
 ## Stack:
-
 <img src="/assets/stack-js.gif"/>
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/mdtanvirahamedshanto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="mdtanvirahamedshanto" height="30" width="40" /></a>
@@ -43,13 +40,13 @@
 
 <br />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdtanvirahamedshanto&show_icons=true&theme=dark&title_color=ccce40&text_color=1559c6&bg_color=130111&locale=en&layout=compact" alt="mdtanvirahamedshanto" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdtanvirahamedshanto&show_icons=true&theme=dark&title_color=ccce40&text_color=1559c6&bg_color=130111&locale=en&layout=compact" alt="mdtanvirahamedshanto" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdtanvirahamedshanto&show_icons=true&theme=dark&title_color=5f69ec&text_color=c42199&bg_color=051648&locale=en" alt="mdtanvirahamedshanto" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdtanvirahamedshanto&theme=dark" alt="mdtanvirahamedshanto" /></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdtanvirahamedshanto" alt="mdtanvirahamedshanto" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdtanvirahamedshanto" alt="mdtanvirahamedshanto" /></a> </p>
 
 ## Projects:
 
