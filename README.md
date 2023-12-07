@@ -188,5 +188,5 @@
 
 ### 📝 License
 
-Copyright © 2023 [tooniez](https://github.com/tooniez). <br />
-This project is [MIT](https://github.com/tooniez/tooniez/blob/main/LICENSE) licensed.
+Copyright © 2023 [Md Tanvir Ahamed Shanto](https://github.com/mdtanvirahamedshanto). <br />
+This project is [MIT](https://github.com/mdtanvirahamedshanto/mdtanvirahamedshanto/LICENSE) licensed.
