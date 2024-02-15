@@ -6,7 +6,11 @@
 <div align="center">
    <p align="center"> <img src="https://komarev.com/ghpvc/?username=mdtanvirahamedshanto&label=Profile%20views&color=0e75b6&style=flat" alt="mdtanvirahamedshanto" />
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/mdtanvirahamedshanto">
-<img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/mdtanvirahamedshanto"></p>
+<img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/mdtanvirahamedshanto">
+
+[![wakatime](https://wakatime.com/badge/user/018d9380-70f1-4382-8a62-992711d1c6ac.svg)](https://wakatime.com/@018d9380-70f1-4382-8a62-992711d1c6ac)
+
+</p>
 </div>
 
 - 📧 Mail: **mdtanvirahamedshanto@gmail.com**
@@ -162,8 +166,7 @@
 </p>
 
 <br/>
-<figure><embed src="https://wakatime.com/share/@mdtanvirahamedshanto/eb5c2ede-1c6d-4126-b5f0-911504c42ce8.svg"></embed></figure>
-<br/>
+
 ## Statistics:
 
 <p align="center">
