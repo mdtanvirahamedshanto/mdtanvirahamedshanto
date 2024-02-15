@@ -117,7 +117,6 @@
 
 ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white) ![Github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-000000.svg?style=for-the-badge&logo=Notion&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF.svg?style=for-the-badge&logo=Vite&logoColor=white)
 
-
 </details>
 <details>
 <summary> 📞 Connect with me... </summary>
@@ -163,7 +162,8 @@
 </p>
 
 <br/>
-
+<figure><embed src="https://wakatime.com/share/@mdtanvirahamedshanto/eb5c2ede-1c6d-4126-b5f0-911504c42ce8.svg"></embed></figure>
+<br/>
 ## Statistics:
 
 <p align="center">
