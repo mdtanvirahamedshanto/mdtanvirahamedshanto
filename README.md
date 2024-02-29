@@ -66,8 +66,6 @@
   </a>
 </div>
 
-<img src="/assets/js.gif"/>
-
 <br />
 
 <p align="center">
