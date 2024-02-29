@@ -35,7 +35,15 @@
   </details>
 
 <details>
-<summary> 📞 Connect with me... </summary>
+<summary> ⚒️ My Project... </summary>
+
+- **[Weather Website](https://github.com/mdtanvirahamedshanto/Weather-Website)** - A Weather Website Update real time Weather
+- **[Digital Clock](https://github.com/mdtanvirahamedshanto/Digital-Clock)** - Digital Clock in Website
+
+</details>
+
+## 📞 Connect with me
+
 <h3 align="left"></h3>
 <p align="left">
 <a href="https://codepen.io/mdtanvirahamedshanto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="mdtanvirahamedshanto" height="30" width="40" /></a>
@@ -52,21 +60,14 @@
 <a href="https://www.leetcode.com/mdtanvirahamedshanto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mdtanvirahamedshanto" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@mdtanvirahameds" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@mdtanvirahameds" height="30" width="40" /></a>
 </p>
-</details>
-<details>
-<summary> ⚒️ My Project... </summary>
 
-- **[Weather Website](https://github.com/mdtanvirahamedshanto/Weather-Website)** - A Weather Website Update real time Weather
-- **[Digital Clock](https://github.com/mdtanvirahamedshanto/Digital-Clock)** - Digital Clock in Website
-
-</details>
 <div>
   <a href="#">
     <img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
   </a>
 </div>
 
-<br />
+## Statistics:
 
 <p align="center">
   <a href="#">
@@ -75,19 +76,17 @@
   </a>
 </p>
 
-<br/>
-
-## Statistics:
-
-<!-- <p align="center">
+<p align="center">
   <a href="#">
-    <img
-      align="center" src="https://github.com/mdtanvirahamedshanto/Git-Stats/raw/master/github-metrics.svg" />
+    <img align="center" src="https://github.com/mdtanvirahamedshanto/Git-Stats/raw/master/generated_images/overviewDarkMode.svg" />
   </a>
-</p> -->
+</p>
 
-<details>
-<summary>👨‍💻 My Tech Stack...</summary>
+<p align="center">
+  <a href="#">
+    <img align="center" src="https://github.com/mdtanvirahamedshanto/Git-Stats/raw/master/generated_images/languagesDarkMode.svg" />
+  </a>
+</p>
 
 <!-- ### 💻 Tech Stack: -->
 
@@ -145,7 +144,7 @@
 
 <!-- ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) -->
 
-#### Machine Learning & Data Science
+<!-- #### Machine Learning & Data Science -->
 
 <!-- ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
@@ -153,8 +152,8 @@
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) -->
 
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
+<!-- ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) -->
 
 #### DevOps & Tools
 
