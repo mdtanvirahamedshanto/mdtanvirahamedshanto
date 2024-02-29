@@ -35,6 +35,60 @@
   </details>
 
 <details>
+<summary> 📞 Connect with me... </summary>
+<h3 align="left"></h3>
+<p align="left">
+<a href="https://codepen.io/mdtanvirahamedshanto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="mdtanvirahamedshanto" height="30" width="40" /></a>
+<a href="https://dev.to/mdtanvirahamedshanto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="mdtanvirahamedshanto" height="30" width="40" /></a>
+<a href="https://twitter.com/tashanto03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tashanto03" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mdtanvirahamedshanto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mdtanvirahamedshanto" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/md-tanvir-ahamed-shanto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="md-tanvir-ahamed-shanto" height="30" width="40" /></a>
+<a href="https://fb.com/mdtanvirahamedshanto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mdtanvirahamedshanto" height="30" width="40" /></a>
+<a href="https://instagram.com/mdtanvirahamedshanto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mdtanvirahamedshanto" height="30" width="40" /></a>
+<a href="https://www.behance.net/mdtanvahamed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="mdtanvahamed" height="30" width="40" /></a>
+<a href="https://medium.com/mdtanvirahamedshanto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="mdtanvirahamedshanto" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/mdtanvirahamedshanto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mdtanvirahamedshanto" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/md_tanvir_ahamed_shanto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="md_tanvir_ahamed_shanto" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/mdtanvirahamedshanto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mdtanvirahamedshanto" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@mdtanvirahameds" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@mdtanvirahameds" height="30" width="40" /></a>
+</p>
+</details>
+<details>
+<summary> ⚒️ My Project... </summary>
+
+- **[Weather Website](https://github.com/mdtanvirahamedshanto/Weather-Website)** - A Weather Website Update real time Weather
+- **[Digital Clock](https://github.com/mdtanvirahamedshanto/Digital-Clock)** - Digital Clock in Website
+
+</details>
+<div>
+  <a href="#">
+    <img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+  </a>
+</div>
+
+<img src="/assets/js.gif"/>
+
+<br />
+
+<p align="center">
+  <a href="#">
+    <img
+      align="center" src="https://github-readme-streak-stats.herokuapp.com?user=mdtanvirahamedshanto&theme=onedark&date_format=M%20j%5B%2C%20Y%5D&dates=737373&ring=DD8484&fire=E25822&stroke=00000000&currStreakNum=DD0D4F&currStreakLabel=A6A6A6&border=00000000&background=161B22" />
+  </a>
+</p>
+
+<br/>
+
+## Statistics:
+
+<!-- <p align="center">
+  <a href="#">
+    <img
+      align="center" src="https://github.com/mdtanvirahamedshanto/Git-Stats/raw/master/github-metrics.svg" />
+  </a>
+</p> -->
+
+<details>
 <summary>👨‍💻 My Tech Stack...</summary>
 
 <!-- ### 💻 Tech Stack: -->
@@ -122,61 +176,6 @@
 ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white) ![Github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-000000.svg?style=for-the-badge&logo=Notion&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF.svg?style=for-the-badge&logo=Vite&logoColor=white)
 
 </details>
-<details>
-<summary> 📞 Connect with me... </summary>
-<h3 align="left"></h3>
-<p align="left">
-<a href="https://codepen.io/mdtanvirahamedshanto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="mdtanvirahamedshanto" height="30" width="40" /></a>
-<a href="https://dev.to/mdtanvirahamedshanto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="mdtanvirahamedshanto" height="30" width="40" /></a>
-<a href="https://twitter.com/tashanto03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tashanto03" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mdtanvirahamedshanto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mdtanvirahamedshanto" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/md-tanvir-ahamed-shanto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="md-tanvir-ahamed-shanto" height="30" width="40" /></a>
-<a href="https://fb.com/mdtanvirahamedshanto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mdtanvirahamedshanto" height="30" width="40" /></a>
-<a href="https://instagram.com/mdtanvirahamedshanto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mdtanvirahamedshanto" height="30" width="40" /></a>
-<a href="https://www.behance.net/mdtanvahamed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="mdtanvahamed" height="30" width="40" /></a>
-<a href="https://medium.com/mdtanvirahamedshanto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="mdtanvirahamedshanto" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/mdtanvirahamedshanto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mdtanvirahamedshanto" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/md_tanvir_ahamed_shanto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="md_tanvir_ahamed_shanto" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/mdtanvirahamedshanto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mdtanvirahamedshanto" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@mdtanvirahameds" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@mdtanvirahameds" height="30" width="40" /></a>
-</p>
-</details>
-<details>
-<summary> ⚒️ My Project... </summary>
-
-- **[Weather Website](https://github.com/mdtanvirahamedshanto/Weather-Website)** - A Weather Website Update real time Weather
-- **[Digital Clock](https://github.com/mdtanvirahamedshanto/Digital-Clock)** - Digital Clock in Website
-
-</details>
-<div>
-  <a href="#">
-    <img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
-  </a>
-</div>
-
-<img src="/assets/js.gif"/>
-
-<br />
-
-<p align="center">
-  <a href="#">
-    <img
-      align="center" src="https://github-readme-streak-stats.herokuapp.com?user=mdtanvirahamedshanto&theme=onedark&date_format=M%20j%5B%2C%20Y%5D&dates=737373&ring=DD8484&fire=E25822&stroke=00000000&currStreakNum=DD0D4F&currStreakLabel=A6A6A6&border=00000000&background=161B22" />
-  </a>
-</p>
-
-<br/>
-
-## Statistics:
-
-<p align="center">
-  <a href="#">
-    <img
-      align="center" src="https://github.com/mdtanvirahamedshanto/Git-Stats/raw/master/github-metrics.svg" />
-  </a>
-</p>
-
-##
 
 <br/>
 
