@@ -174,22 +174,11 @@
 
 </details>
 
-<div>
-  <a href="#">
-    <img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
-  </a>
-</div>
-
 <p align="center">
-
-<a href="#">
-
-[![Md Tanvir Ahamed Shanto's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mdtanvirahamedshanto&theme=tokyonight)](https://github.com/mdtanvirahamedshanto/)
-
-</a>
-</div>
-
-<p/>
+  <a href="#">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=mdtanvirahamedshanto&theme=tokyonight" />
+  </a>
+</p>
 
 <p align="center">
   <a href="https://www.buymeacoffee.com/TAShanto">
