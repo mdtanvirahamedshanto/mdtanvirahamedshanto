@@ -174,6 +174,14 @@
 
 </details>
 
+</div>
+
+<br>
+
+[![Md Tanvir Ahamed Shanto's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mdtanvirahamedshanto&theme=tokyonight)](https://github.com/mdtanvirahamedshanto/)
+
+</div>
+
 <br/>
 
 <p align="center">
