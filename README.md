@@ -174,7 +174,7 @@
 
 </details>
 
-</div>
+<p align="center">
 
 <br>
 
@@ -182,7 +182,7 @@
 
 </div>
 
-<br/>
+<p/>
 
 <p align="center">
   <a href="https://www.buymeacoffee.com/TAShanto">
