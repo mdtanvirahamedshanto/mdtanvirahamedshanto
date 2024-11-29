@@ -14,7 +14,7 @@
 </div>
 
 - 📧 Mail: **mdtanvirahamedshanto@gmail.com**
-- 🌐 Website: **https://www.mdtanvirahamedshanto.live**
+- 🌐 Website: **https://mdtanvirahamedshanto.vercel.app**
 - ⚡ Fun fact: **Actually, nothing. Just booring**
 
 ## Details:
