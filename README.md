@@ -14,35 +14,14 @@
 </div>
 
 - 📧 Mail: **mdtanvirahamedshanto@gmail.com**
-- 🌐 Website: **https://mdtanvirahamedshanto.vercel.app**
+- 🌐 Protfolio: **https://mdtanvirahamedshanto.vercel.app**
 - ⚡ Fun fact: **Actually, nothing. Just booring**
 
-## Details:
 
-<details>
-<summary> 📚 My Articles... </summary>
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white)  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=plastic&logo=supabase&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=plastic&logo=prisma&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=plastic&logo=digitalOcean&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white)
 
-<!-- ### 💡 Blog posts -->
-
-<!-- BLOG-POST-LIST:START -->
-
-- [Web Development কি? একজন Web Developer কি কাজ করে থাকেন ?](https://medium.com/@mdtanvirahamedshanto/web-development-কি-একজন-web-developer-কি-কাজ-করে-থাকেন-1a6f801e9bbf)
-- [Full-Stack Web Development Roadmap in Details!](https://medium.com/@mdtanvirahamedshanto/full-stack-web-development-roadmap-in-details-b7922e42c954)
-- [জাভাস্ক্রিপ্ট-এর কতটুকু শেখার পর আমি অন্য ফ্রেমওয়ার্ক বা লাইব্রেরী অথবা নতুন কোনো স্টেপে যেতে পারবো?](https://medium.com/@mdtanvirahamedshanto/জাভাস্ক্রিপ্ট-এর-কতটুকু-শেখার-পর-আমি-অন্য-ফ্রেমওয়ার্ক-বা-লাইব্রেরী-অথবা-নতুন-কোনো-স্টেপে-যেতে-fa795fd821a7)
-- [Tailwind CSS বর্তমানের সবথেকে জনপ্রিয় CSS লাইব্রেরি বা ফ্রেমওয়ার্ক।](https://mdtanvirahamedshanto.blogspot.com/2023/10/tailwind-css-css.html)
-- [প্রোগ্রামিং শিখতে গেলে কতটুকু ম্যাথ লাগে।](https://mdtanvirahamedshanto.hashnode.dev/4kaq4ken4kaw4kel4kax4ken4kaw4ka4kau4ka4kaciocmtucmvcmlucmpocnhydgppfgp4fgprlgp4cg4kav4kak4kaf4keb4kav4kebiocmrucnjecmrcmvucmpsdgprlgpr7gppfgp4fgpaq)
-  <!-- BLOG-POST-LIST:END -->
-  </details>
-
-<details>
-<summary> ⚒️ My Project... </summary>
-
-- **[Weather Website](https://github.com/mdtanvirahamedshanto/Weather-Website)** - A Weather Website Update real time Weather
-- **[Digital Clock](https://github.com/mdtanvirahamedshanto/Digital-Clock)** - Digital Clock in Website
-
-</details>
-
-## 📞 Connect with me
+# 📞 Connect With Me
 
 <h3 align="left"></h3>
 <p align="left">
@@ -87,6 +66,31 @@
     <img align="center" src="https://github.com/mdtanvirahamedshanto/Git-Stats/raw/master/generated_images/languagesDarkMode.svg" />
   </a>
 </p>
+
+## Details:
+
+<details>
+<summary> 📚 My Articles... </summary>
+
+<!-- ### 💡 Blog posts -->
+
+<!-- BLOG-POST-LIST:START -->
+
+- [Web Development কি? একজন Web Developer কি কাজ করে থাকেন ?](https://medium.com/@mdtanvirahamedshanto/web-development-কি-একজন-web-developer-কি-কাজ-করে-থাকেন-1a6f801e9bbf)
+- [Full-Stack Web Development Roadmap in Details!](https://medium.com/@mdtanvirahamedshanto/full-stack-web-development-roadmap-in-details-b7922e42c954)
+- [জাভাস্ক্রিপ্ট-এর কতটুকু শেখার পর আমি অন্য ফ্রেমওয়ার্ক বা লাইব্রেরী অথবা নতুন কোনো স্টেপে যেতে পারবো?](https://medium.com/@mdtanvirahamedshanto/জাভাস্ক্রিপ্ট-এর-কতটুকু-শেখার-পর-আমি-অন্য-ফ্রেমওয়ার্ক-বা-লাইব্রেরী-অথবা-নতুন-কোনো-স্টেপে-যেতে-fa795fd821a7)
+- [Tailwind CSS বর্তমানের সবথেকে জনপ্রিয় CSS লাইব্রেরি বা ফ্রেমওয়ার্ক।](https://mdtanvirahamedshanto.blogspot.com/2023/10/tailwind-css-css.html)
+- [প্রোগ্রামিং শিখতে গেলে কতটুকু ম্যাথ লাগে।](https://mdtanvirahamedshanto.hashnode.dev/4kaq4ken4kaw4kel4kax4ken4kaw4ka4kau4ka4kaciocmtucmvcmlucmpocnhydgppfgp4fgprlgp4cg4kav4kak4kaf4keb4kav4kebiocmrucnjecmrcmvucmpsdgprlgpr7gppfgp4fgpaq)
+  <!-- BLOG-POST-LIST:END -->
+  </details>
+
+<details>
+<summary> ⚒️ My Project... </summary>
+
+- **[Weather Website](https://github.com/mdtanvirahamedshanto/Weather-Website)** - A Weather Website Update real time Weather
+- **[Digital Clock](https://github.com/mdtanvirahamedshanto/Digital-Clock)** - Digital Clock in Website
+
+</details>
 
 <!-- ### 💻 Tech Stack: -->
 
