@@ -25,19 +25,22 @@
 
 <h3 align="left"></h3>
 <p align="left">
-<a href="https://codepen.io/mdtanvirahamedshanto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="mdtanvirahamedshanto" height="30" width="40" /></a>
-<a href="https://dev.to/mdtanvirahamedshanto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="mdtanvirahamedshanto" height="30" width="40" /></a>
-<a href="https://twitter.com/tashanto03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tashanto03" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mdtanvirahamedshanto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mdtanvirahamedshanto" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/md-tanvir-ahamed-shanto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="md-tanvir-ahamed-shanto" height="30" width="40" /></a>
+
 <a href="https://fb.com/mdtanvirahamedshanto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mdtanvirahamedshanto" height="30" width="40" /></a>
 <a href="https://instagram.com/mdtanvirahamedshanto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mdtanvirahamedshanto" height="30" width="40" /></a>
+<a href="https://twitter.com/tashanto03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tashanto03" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mdtanvirahamedshanto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mdtanvirahamedshanto" height="30" width="40" /></a>
+<a href="https://wa.me/8801614081441" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="mdtanvirahamedshanto" height="30" width="40" /></a>
+<a href="https://t.me/mdtanvirahamedshanto" target="blank"><img align="center" src="https://www.svgrepo.com/show/354443/telegram.svg" alt="mdtanvirahamedshanto" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/md-tanvir-ahamed-shanto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="md-tanvir-ahamed-shanto" height="30" width="40" /></a>
 <a href="https://www.behance.net/mdtanvahamed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="mdtanvahamed" height="30" width="40" /></a>
 <a href="https://medium.com/mdtanvirahamedshanto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="mdtanvirahamedshanto" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/mdtanvirahamedshanto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mdtanvirahamedshanto" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/md_tanvir_ahamed_shanto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="md_tanvir_ahamed_shanto" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/mdtanvirahamedshanto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mdtanvirahamedshanto" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@mdtanvirahameds" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@mdtanvirahameds" height="30" width="40" /></a>
+<a href="https://codepen.io/mdtanvirahamedshanto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="mdtanvirahamedshanto" height="30" width="40" /></a>
+<a href="https://dev.to/mdtanvirahamedshanto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="mdtanvirahamedshanto" height="30" width="40" /></a>
 </p>
 
 <div>
